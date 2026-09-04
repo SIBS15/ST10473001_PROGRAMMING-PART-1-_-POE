@@ -1,0 +1,30 @@
+name: Part 1 Documentation Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate-part1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check docs folder exists
+        run: test -d docs
+
+      - name: Check ERD is present
+        run: test -f docs/RaceDay_ERD.pdf
+
+      - name: Check API Endpoint Plan is present
+        run: test -f docs/RaceDay_API_Endpoint_Plan.md
+
+      - name: Check SQL Database Script is present
+        run: test -f docs/RaceDay_Database.sql
+
+      - name: Check README is present
+        run: test -f README.md
+
+      - name: All required Part 1 files found
+        run: echo "Part 1 documentation structure is valid."
