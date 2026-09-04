@@ -16,7 +16,7 @@ This repository contains the **Part 1 (System Planning and Database)**  delivera
 
 ### Participant
 - Create an account and log in.
-- Browse available events.
+- Browse available events..
 - Enter an event and select a category.
 - View their own enrolments.
 - Track their own race results and performance history.
