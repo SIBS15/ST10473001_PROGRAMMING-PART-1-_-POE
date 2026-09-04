@@ -21,7 +21,7 @@ This repository contains the **Part 1 (System Planning and Database)**  delivera
 - View their own enrolments.
 - Track their own race results and performance history.
 
-## Part 1 Deliverables
+## Part 1 Deliverables:
 - **Entity Relationship Diagram (ERD)** — [`docs/RaceDay_ERD.pdf`](docs/RaceDay_ERD.pdf)
 - **API Endpoint Plan** — [`docs/RaceDay_API_Endpoint_Plan.md`](docs/RaceDay_API_Endpoint_Plan.md)
 - **SQL Database Script** — [`docs/RaceDay_Database.sql`](docs/RaceDay_Database.sql)
