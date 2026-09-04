@@ -47,6 +47,7 @@ The `/docs` folder holds all Part 1 planning documents. The `.github/workflows` 
 
 ## Database Design Summary
 
+
 The database consists of six entities: **Users** (Organisers and Participants), **Events**, **Categories**, **Enrolments**, **Results** and **Payments**. `Enrolments` is the associative entity that resolves the many-to-many relationship between Participants and Events (via a chosen Category). `Results` and `Payments` each have a one-to-one relationship with `Enrolments`. Full details, attributes, primary keys, foreign keys and cardinality are shown in `docs/RaceDay_ERD.pdf`, and the SQL script matches this design exactly.
 
 ## Database Setup
