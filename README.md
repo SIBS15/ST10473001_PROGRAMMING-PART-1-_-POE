@@ -10,6 +10,7 @@ This repository contains the **Part 1 (System Planning and Database)**  delivera
 ### Organiser
 - Create, edit and delete events.
 - Manage event categories.
+- 
 - View event enrolments.
 - Capture participant results.
 - View information relating to the events they manage.
