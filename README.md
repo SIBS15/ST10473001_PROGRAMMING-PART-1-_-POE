@@ -20,6 +20,7 @@ This repository contains the **Part 1 (System Planning and Database)**  delivera
 - Enter an event and select a category.
 - View their own enrolments.
 - Track their own race results and performance history.
+- 
 
 ## Part 1 Deliverables:
 - **Entity Relationship Diagram (ERD)** — [`docs/RaceDay_ERD.pdf`](docs/RaceDay_ERD.pdf)
