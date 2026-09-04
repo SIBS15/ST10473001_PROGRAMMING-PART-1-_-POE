@@ -14,7 +14,7 @@ This repository contains the **Part 1 (System Planning and Database)**  delivera
 - Capture participant results.
 - View information relating to the events they manage.
 
-### Participant
+### Participants
 - Create an account and log in.
 - Browse available events.
 - Enter an event and select a category.
