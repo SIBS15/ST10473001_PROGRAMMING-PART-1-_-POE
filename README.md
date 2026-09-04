@@ -58,6 +58,7 @@ The database consists of six entities: **Users** (Organisers and Participants), 
 5. Expand the tables and confirm the seed data loaded correctly (2 Organisers, 2 Participants, 3 Events, categories per event, and sample enrolments, results and payments).
 
 ## CI/CD
+
 The `part1-ci.yml` GitHub Actions workflow runs on every push and pull request. It checks that the repository structure is correct for Part 1 by confirming that the `/docs` folder exists and that `RaceDay_ERD.pdf`, `RaceDay_API_Endpoint_Plan.md`, `RaceDay_Database.sql` and `README.md` are all present.
 
 **Successful build screenshot:**
