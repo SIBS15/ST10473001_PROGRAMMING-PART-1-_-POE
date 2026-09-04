@@ -41,6 +41,7 @@ RaceDay Repository
 `-- .github
     `-- workflows
         `-- part1-ci.yml
+
 ```
 The `/docs` folder holds all Part 1 planning documents. The `.github/workflows` folder holds the GitHub Actions CI/CD workflow that validates the repository structure on every push.
 
