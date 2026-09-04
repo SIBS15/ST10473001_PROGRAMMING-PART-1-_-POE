@@ -1,7 +1,7 @@
 # RaceDay Event Management System
 
 ## Project Description.
-RaceDay is a web-based event management system for South African road running, .walking and cycling events. It allows Organisers to create and manage events, and allows Participants to discover events, enter them, and track their own results and performance history over time.
+RaceDay is a web-based event management system for South African road running, walking and cycling events. It allows Organisers to create and manage events, and allows Participants to discover events, enter them, and track their own results and performance history over time.
 
 This repository contains the **Part 1 (System Planning and Database)** deliverables for PROG6212 PoE. Part 1 is a planning and database submission — the API and MVC application have not been built yet; that work is planned here so it can be implemented consistently in Part 2 and Part 3.
 
