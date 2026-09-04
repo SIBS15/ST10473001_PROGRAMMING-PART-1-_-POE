@@ -5,7 +5,7 @@ RaceDay is a web-based event management system for South African road running, w
 
 This repository contains the **Part 1 (System Planning and Database)**  deliverables for PROG6212 PoE. Part 1 is a planning and  database submission — the API and MVC application have not been built yet; that work is planned here so it can be implemented consistently in Part 2 and Part 3.
 
-## User Roles
+## User Roles 
 
 ### Organiser
 - Create, edit and delete events.
